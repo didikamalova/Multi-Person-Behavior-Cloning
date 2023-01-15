@@ -1,0 +1,2 @@
+Avg Returns,Success Rate,env-final-hand_object_aligned,env-final-obj_goal_distance,env-final-object_above_goal,env-final-object_grasped,env-final-picked_up,env-final-task_achieved,env-hand_object_aligned,env-obj_goal_distance,env-object_above_goal,env-object_grasped,env-picked_up,env-task_achieved,test-BC Loss,test-epoch_duration,train-epoch_duration
+-65.0,0.0,0.4,0.24305400493460988,0.0,0.4,0.8,0.0,0.5261538461538462,0.23413646982651765,0.0,0.5261538461538462,0.7569230769230769,0.0,0.19826684628020633,1.1643290519714355,43.03286576271057

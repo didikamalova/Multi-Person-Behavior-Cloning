@@ -1,0 +1,1 @@
+{"seed": 0, "demo_size": 500, "batch_size": 32, "weight_decay": 0.0, "eval_person_id": 3, "env_name": "VALMultiobjTray-v0", "env_kwargs": {"test_env": true}, "horizon": 65, "model_kwargs": {}, "datapath": "/Users/macintosh/Desktop/Experiment/datasets/conditioned_combined_dataset.npy", "use_gpu": false, "log_dir": "/Users/macintosh/Desktop/Experiment/"}

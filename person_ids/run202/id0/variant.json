@@ -1,0 +1,1 @@
+{"seed": 0, "demo_size": 500, "batch_size": 32, "weight_decay": 0.0, "env_name": "VALMultiobjTray-v0", "env_kwargs": {"test_env": true}, "horizon": 65, "model_kwargs": {}, "datapath": "/Users/macintosh/Desktop/Experiment/datasets/tray_demos_person_2.npy", "use_gpu": false, "log_dir": "/Users/macintosh/Desktop/Experiment/person_ids/", "eval_person_id": 2}
